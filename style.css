@@ -137,11 +137,16 @@ font-weight:400;
         padding:60px 32px;
       }
 
-     .experience,.achievements,.blogs,.technicalskill,.expertise{
+     .experience,.achievements,.technicalskill,.expertise{
         margin-top :30px;
         background-color: #fdfdff;
 
      }
+.blogs{
+  margin-top :30px;
+    margin-bottom: 30px;
+        background-color: #fdfdff;
+}
      
      .carousel-item{
          padding:30px;
